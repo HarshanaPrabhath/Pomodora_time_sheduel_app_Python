@@ -1,4 +1,4 @@
-# Pomodoro Timer ⚡⚡⚡
+![Pomodoro](https://github.com/HarshanaPrabhath/Pomodora_time_sheduel_app_Python/assets/132127313/c5b328a8-89b1-448d-9e6d-16af7e1c21a2)# Pomodoro Timer ⚡⚡⚡
 
 This Python script implements a Pomodoro timer using the Tkinter library. The Pomodoro Technique is a time management method that uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.
 
@@ -9,7 +9,8 @@ This Python script implements a Pomodoro timer using the Tkinter library. The Po
 - Users can start, pause, and reset the timer.
 
   
-![Pomodoro Timer](file:///C:/Users/Harshana%20Prabhath/Desktop/Works/Python/Python%20Practicals/Day%2028%20Pomodora/Pomodora_time_sheduel_app_Python/pythonProject/Pomodoro.png)
+![Pomodoro](https://github.com/HarshanaPrabhath/Pomodora_time_sheduel_app_Python/assets/132127313/67f65265-5ebe-40b6-8f03-e89d93c61d75)
+
 
 ## Features
 - **Work Session**: 25 minutes
