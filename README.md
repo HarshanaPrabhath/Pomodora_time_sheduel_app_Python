@@ -9,7 +9,7 @@ This Python script implements a Pomodoro timer using the Tkinter library. The Po
 - Users can start, pause, and reset the timer.
 
   
-![Pomodoro Timer](file:///C:/Users/Harshana%20Prabhath/Desktop/Works/Python/Python%20Practicals/Day%2028%20Pomodora/Pomodora_time_sheduel_app_Python/pythonProject/Pomodoro)
+![Pomodoro Timer](file:///C:/Users/Harshana%20Prabhath/Desktop/Works/Python/Python%20Practicals/Day%2028%20Pomodora/Pomodora_time_sheduel_app_Python/pythonProject/Pomodoro.png)
 
 ## Features
 - **Work Session**: 25 minutes
